@@ -2,7 +2,7 @@
 
 Repositório criado para desenvolver **lógica de programação** e **estrutura de dados** utilizando **JavaScript**.
 
-O objetivo é praticar raciocínio lógico, controle de fluxo, manipulação de arrays, entrada e saída de dados, além de consolidar fundamentos essenciais para quem está evoluindo na programação.
+O objetivo é praticar raciocínio lógico, controle de fluxo, manipulação de arrays, entrada e saída de dados, além de consolidar fundamentos essenciais para que eu possa evoluir na programação.
 
 ---
 
@@ -31,14 +31,8 @@ Esses projetos fazem parte do meu processo de estudo de **JavaScript** voltado p
 
 ## 🚀 Tecnologias Utilizadas
 - JavaScript (Node.js)
-- HTML / CSS (para as versões com interface)
+- HTML / CSS (para as interface)
 - [readline-sync](https://www.npmjs.com/package/readline-sync) para entrada de dados no terminal
-
----
-
-## 📈 Próximos Passos
-- Criar novos desafios envolvendo **funções**, **tratamento de dados** e **algoritmos de ordenação/pesquisa**.  
-- Integrar conceitos de **estrutura de dados** (pilhas, filas, listas, etc.) com exemplos práticos.
 
 ---
 
